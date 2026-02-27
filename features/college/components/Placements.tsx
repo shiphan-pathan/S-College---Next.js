@@ -30,7 +30,7 @@ export default function Placements() {
           {/* Right Image */}
           <div className="relative w-full h-100 rounded-2xl overflow-hidden shadow-lg">
             <Image
-              src="/assets/placement.jpg"
+              src="/assets/Placement.jpg"
               alt="Placement Interview"
               fill
               className="object-cover"
@@ -41,7 +41,7 @@ export default function Placements() {
         {/* Company Logos */}
           <div className="flex flex-col md:flex-row items-center justify-around gap-10">
             <Image
-              src="/assets/google.png"
+              src="/assets/Google.png"
               alt="Google"
               width={220}
               height={60}
@@ -49,7 +49,7 @@ export default function Placements() {
             />
 
             <Image
-              src="/assets/amazon.png"
+              src="/assets/Amazon.png"
               alt="Amazon"
               width={220}
               height={60}
@@ -57,7 +57,7 @@ export default function Placements() {
             />
 
             <Image
-              src="/assets/microsoft.png"
+              src="/assets/Microsoft.png"
               alt="Microsoft"
               width={220}
               height={60}

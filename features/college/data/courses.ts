@@ -4,27 +4,27 @@ export const courses = [
     title: "Computer Science",
     description:
       "Learn coding, algorithms, and software development.",
-    image: "/assets/course-cs.jpg",
+    image: "/assets/Course-CS.jpg",
   },
   {
     id: 2,
     title: "Business Administration",
     description:
       "Develop skills in management, finance, and marketing.",
-    image: "/assets/course-business.jpg",
+    image: "/assets/Course-Business.jpg",
   },
   {
     id: 3,
     title: "Health Sciences",
     description:
       "Study medicine, nursing, and public health.",
-    image: "/assets/course-health.jpg",
+    image: "/assets/Course-Health.jpg",
   },
   {
     id: 4,
     title: "Engineering",
     description:
       "Explore mechanical, electrical, and civil engineering fields.",
-    image: "/assets/course-engineering.jpg",
+    image: "/assets/Course-Engineering.jpg",
   },
 ];
