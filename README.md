@@ -8,7 +8,7 @@ This project demonstrates a production-ready folder structure, reusable componen
 
 ## 🚀 Live Preview
 
-Coming Soon...
+https://s-college.vercel.app/
 
 ---
 
