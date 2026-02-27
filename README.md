@@ -36,32 +36,6 @@ https://s-college.vercel.app/
 
 ---
 
-## 📂 Project Structure
-
-college-website/
-│
-├── app/
-│ ├── layout.tsx
-│ ├── page.tsx
-│ ├── globals.css
-│
-├── features/
-│ ├── college/
-│ │ ├── components/
-│ │ ├── data/
-│ │
-│ ├── shared/
-│ │ ├── components/
-│
-├── public/
-│ ├── assets/
-│
-├── package.json
-└── README.md
-
-
----
-
 # 🧑‍💻 Installation Guide
 
 Follow these steps to run the project locally:
