@@ -11,7 +11,7 @@ export default function About() {
           {/* Left Image */}
           <div className="relative w-full h-100 rounded-2xl overflow-hidden shadow-lg">
             <Image
-              src="/assets/about.jpg"
+              src="/assets/About.jpg"
               alt="College Campus"
               fill
               className="object-cover"

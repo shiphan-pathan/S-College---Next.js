@@ -11,14 +11,14 @@ export const courses = [
     title: "Business Administration",
     description:
       "Develop skills in management, finance, and marketing.",
-    image: "/assets/Course-Business.jpg",
+    image: "/assets/Course-business.jpg",
   },
   {
     id: 3,
     title: "Health Sciences",
     description:
       "Study medicine, nursing, and public health.",
-    image: "/assets/Course-Health.jpg",
+    image: "/assets/Course-health.jpg",
   },
   {
     id: 4,
