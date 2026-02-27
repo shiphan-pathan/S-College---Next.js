@@ -67,10 +67,10 @@ college-website/
 Follow these steps to run the project locally:
 
 ---
+```bash
 
 ## 1️⃣ Clone the Repository
 
-```bash
 git clone https://github.com/shiphan-pathan/S-College---Next.js.git
 
 ## 2️⃣ Navigate to Project Folder
